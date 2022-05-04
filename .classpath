@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.epam.parso-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.jhlabs.filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.thoughtworks.xstream.xstream-1.4.14.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.typesafe.scala-logging.scala-logging_2.13-3.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/net.java.dev.jna.jna-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.apache.commons.commons-csv-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.javacpp-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.javacpp-1.5.4-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.javacpp-1.5.4-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.javacpp-1.5.4-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.openblas-0.3.10-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.openblas-0.3.10-1.5.4-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.openblas-0.3.10-1.5.4-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.openblas-0.3.10-1.5.4-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.jline.jline-3.16.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.scala-lang.modules.scala-xml_2.13-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.scala-lang.scala-reflect-2.13.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.slf4j.slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.swinglabs.swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.swinglabs.swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/xmlpull.xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/xpp3.xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-data-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-demo-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-graph-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-interpolation-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-io-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-json-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-math-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-nlp-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-plot-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-scala-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/com.github.haifengl.smile-shell-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.arpack-ng-3.7.0-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.arpack-ng-3.7.0-1.5.4-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.arpack-ng-3.7.0-1.5.4-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.bytedeco.arpack-ng-3.7.0-1.5.4-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.scala-lang.scala-compiler-2.13.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.scala-lang.scala-library-2.13.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/smile_integration/src/smile/lib/org.slf4j.slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

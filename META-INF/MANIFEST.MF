@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.2.2
+Build-Jdk-Spec: 18
+Class-Path: smile-core-2.6.0.jar smile-data-2.6.0.jar smile-math-2.6.0.j
+ ar smile-graph-2.6.0.jar smile-io-2.5.0.jar parso-2.0.11.jar commons-cs
+ v-1.8.jar selenium-java-4.1.4.jar selenium-api-4.1.4.jar selenium-chrom
+ e-driver-4.1.4.jar auto-service-annotations-1.0.1.jar auto-service-1.0.
+ 1.jar auto-common-1.2.jar guava-31.1-jre.jar failureaccess-1.0.1.jar li
+ stenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar checker-qu
+ al-3.12.0.jar error_prone_annotations-2.11.0.jar j2objc-annotations-1.3
+ .jar selenium-chromium-driver-4.1.4.jar selenium-json-4.1.4.jar seleniu
+ m-devtools-v100-4.1.4.jar selenium-devtools-v101-4.1.4.jar selenium-dev
+ tools-v85-4.1.4.jar selenium-devtools-v99-4.1.4.jar selenium-edge-drive
+ r-4.1.4.jar selenium-firefox-driver-4.1.4.jar selenium-ie-driver-4.1.4.
+ jar selenium-opera-driver-4.1.4.jar selenium-remote-driver-4.1.4.jar ne
+ tty-buffer-4.1.76.Final.jar netty-codec-http-4.1.76.Final.jar netty-cod
+ ec-4.1.76.Final.jar netty-handler-4.1.76.Final.jar netty-common-4.1.76.
+ Final.jar netty-transport-classes-epoll-4.1.76.Final.jar netty-transpor
+ t-classes-kqueue-4.1.76.Final.jar netty-transport-native-epoll-4.1.76.F
+ inal.jar netty-transport-native-kqueue-4.1.76.Final.jar netty-transport
+ -native-unix-common-4.1.76.Final.jar netty-transport-4.1.76.Final.jar n
+ etty-resolver-4.1.76.Final.jar opentelemetry-api-1.13.0.jar opentelemet
+ ry-context-1.13.0.jar opentelemetry-exporter-logging-1.13.0.jar opentel
+ emetry-sdk-metrics-1.13.0-alpha.jar opentelemetry-sdk-logs-1.13.0-alpha
+ .jar opentelemetry-sdk-common-1.13.0.jar opentelemetry-sdk-extension-au
+ toconfigure-spi-1.13.0.jar opentelemetry-sdk-extension-autoconfigure-1.
+ 13.0-alpha.jar opentelemetry-sdk-trace-1.13.0.jar opentelemetry-sdk-1.1
+ 3.0.jar opentelemetry-semconv-1.13.0-alpha.jar jtoml-2.0.0.jar byte-bud
+ dy-1.12.9.jar commons-exec-1.3.jar async-http-client-2.12.3.jar async-h
+ ttp-client-netty-utils-2.12.3.jar netty-codec-socks-4.1.60.Final.jar ne
+ tty-handler-proxy-4.1.60.Final.jar netty-transport-native-epoll-4.1.60.
+ Final-linux-x86_64.jar netty-transport-native-kqueue-4.1.60.Final-osx-x
+ 86_64.jar reactive-streams-1.0.3.jar netty-reactive-streams-2.0.4.jar j
+ akarta.activation-1.2.2.jar selenium-http-4.1.4.jar failsafe-3.2.3.jar 
+ selenium-safari-driver-4.1.4.jar selenium-support-4.1.4.jar jsr305-3.0.
+ 1.jar slf4j-api-1.7.32.jar jcommander-1.78.jar
+Main-Class: com.jordan.main.App
+
